@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "download_url": "https://your-domain.com/downloads/payload.bin",
+    "sha256": "8a5712a8b7d37b163b6c17f124c80cf525f06da60512005e7e51bc3bebc4f485",
+    "size_bytes": 262144,
+    "encrypted_size_bytes": 262172
+}
