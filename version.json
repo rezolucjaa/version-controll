@@ -1,8 +1,8 @@
 {
     "version": "1.1.5",
     "download_url": "https://raw.githubusercontent.com/rezolucjaa/version-controll/main/payload.bin",
-    "sha256": "a487b4129eaeee2554fc32a2107943066ed2c9645da83235dd8df0a2d7fcbf09",
-    "size_bytes": 1387008,
-    "encrypted_size_bytes": 1387036,
-    "sig": "765bdcf07b0eca079984b9923e2811c06d98d103512c76cb4d09244fc42bbd653c17ddfa5b62264aaf4b994f8e0d4bbfee60d07ac1a919ab29499871b0394704"
+    "sha256": "7542df066b6f340df4d107e04d26b2f93361551129dc1dab0cb1a4f25e7fb99e",
+    "size_bytes": 1383936,
+    "encrypted_size_bytes": 1383964,
+    "sig": "e7271b83c58a212537e92d6639058463bf94827bc08df150c983e4cee88c5cfaec546697e5c1c180555f4d2d1e2c6076d21d670f91fea7ad70730f63fe03b802"
 }
