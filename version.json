@@ -1,10 +1,10 @@
 {
-    "version": "1.4.4",
+    "version": "1.4.5",
     "download_url": "https://raw.githubusercontent.com/rezolucjaa/version-controll/main/payload.bin",
-    "sha256": "ec3bd57844ddc8ebf9cf111b28f27ad0eec1df25c9e073811ee701c443164e43",
-    "size_bytes": 1507840,
-    "encrypted_size_bytes": 1507868,
+    "sha256": "b4d006ec0b07a67e969510834e523849e538c68fc96d0cc4fbe851d44993b5c8",
+    "size_bytes": 1506304,
+    "encrypted_size_bytes": 1506332,
     "kbd_url": "https://raw.githubusercontent.com/rezolucjaa/version-controll/main/kbd_filter.bin",
     "kbd_sha256": "8c5208dbd34bf106ab378b38d6d3f3dd7256de76de9f17196c783ab2e80d1a22",
-    "sig": "70aac2e2219e1719a126b59e37947212fef7da569e4f306bfcbbc9ac78b7523c995562dfb685a79e32b0d040e44c3a805ee8e974fb933626714f4775c8e2d506"
+    "sig": "485fe8e881ebed74df6b33905a0ac387c60f5b3cab98c5922ac89afc54159b8004d231e24a275206158c3e056ad225f9995c455d1fbe408cd022c5e7cf8fbf09"
 }
