@@ -1,10 +1,18 @@
 {
-    "version": "1.4.7",
+    "manifest_version": 1,
+    "application_id": "mirai",
+    "component": "payload",
+    "version": "1.4.8",
+    "minimum_supported_version": "1.4.0",
+    "issued_at": 1794378203,
+    "expires_at": 1825914203,
+    "revocation_epoch": 1,
     "download_url": "https://raw.githubusercontent.com/rezolucjaa/version-controll/main/payload.bin",
-    "sha256": "be18da583afe83028c3418a37a8da06b3f18680bd3f72a87c66e1e6798b186b0",
-    "size_bytes": 1510912,
-    "encrypted_size_bytes": 1510940,
+    "sha256": "8647643be6ae9d10af4eb528bc9810c1adec92f59d81ef57c35ae8731f4874d2",
+    "size_bytes": 1521664,
+    "encrypted_size_bytes": 1521692,
+    "key_id": "manifest-2026-v1",
     "kbd_url": "https://raw.githubusercontent.com/rezolucjaa/version-controll/main/kbd_filter.bin",
     "kbd_sha256": "8c5208dbd34bf106ab378b38d6d3f3dd7256de76de9f17196c783ab2e80d1a22",
-    "sig": "874ea51190ad57860a1aa165688a6814f4048a0b214f82169203c7effec98c9b7a895f4b5ce1e06b2d17adc634aff1ecb6b7749d3b7cc2f27035a94c0c8bfa00"
+    "sig": "93363ab80f7699b10ba52838a00d10d4f4c640d898e9f44b4c6f715470885d702bcf1c1ea1b094a401f24ca150716dd78b7f9994598145b7bbd4e66c9b5c4d06"
 }
